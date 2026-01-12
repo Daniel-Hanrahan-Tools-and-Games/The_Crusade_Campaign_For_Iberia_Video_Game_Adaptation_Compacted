@@ -11,7 +11,7 @@ To get to source code after you loaded the game you press escape key.
 
 This is mostly a one to one port of The_Crusade_Campaign_For_Iberia_Video_Game with the exception of mod support.
 
-<a href="https://daniel-hanrahan-tools-and-games.github.io/The_Crusade_Campaign_For_Iberia_Video_Game_Adaptation_Compacted/The_Crusade_Campaign_For_Iberia_Video_Game_Adaptation_Compacted_Web/index.html">Play Game in Browser Here</a>
+<a href="https://daniel-hanrahan-tools-and-games.github.io/The_Crusade_Campaign_For_Iberia_Video_Game_Adaptation_Compacted/The_Crusade_Campaign_For_Iberia_Video_Game_Compacted_Web/index.html">Play Game in Browser Here</a>
 
 <h3>Both of these links take you to The_Crusade_Campaign_For_Iberia Video Game adaptation</h3>
 
