@@ -1,5 +1,4 @@
 # The_Crusade_Campaign_For_Iberia_Video_Game_Adaptation_Compacted
-
 Compacted version of The_Crusade_Campaign_For_Iberia_Video_Game for the Tic-80 written in Lua
 
 The executable and source code is in one file.
